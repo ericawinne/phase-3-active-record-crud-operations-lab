@@ -1,4 +1,4 @@
-# Add seed data here. Seed your database with `rake db:seed`
+Movie.create(title: "The Lion King", release_date: 1995, director: "Erica Winne", lead: "Simba", in_theaters: false)
 
 Movie.create(title: "Wargames", release_date: 1983, director: "John Badham", lead: "Matthew Broderick", in_theaters: false)
 
